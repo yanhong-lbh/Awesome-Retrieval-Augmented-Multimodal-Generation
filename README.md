@@ -65,18 +65,23 @@ A curated list of papers on Retrieval-Augmented Generation (RAG) applied to mult
 ## Text - Audio
 
 - **Retrieval-Augmented Text-to-Audio Generation**  
-  [Paper](https://arxiv.org/abs/2309.08051)
+  *Yi Yuan, Haohe Liu, Xubo Liu, Qiushi Huang, Mark D. Plumbley, Wenwu Wang*  
+  [Paper](https://arxiv.org/abs/2309.08051) | ICASSP 2024
 
-- **kNN-CTC: Enhancing ASR via Retrieval of CTC Pseudo Labels**  
-  [Paper](https://arxiv.org/abs/2312.13560v2)
+- **kNN-CTC: Enhancing ASR via Retrieval of CTC Pseudo Labels**
+  *Jiaming Zhou, Shiwan Zhao, Yaqi Liu, Wenjia Zeng, Yong Chen, Yong Qin*
+  [Paper](https://arxiv.org/abs/2312.13560v2) | ICASSP 2024
 
 - **Retrieval Augmented End-to-End Spoken Dialog Models**  
-  [Paper](https://arxiv.org/abs/2402.01828)
+  *Mingqiu Wang, Izhak Shafran, Hagen Soltau, Wei Han, Yuan Cao, Dian Yu, Laurent El Shafey*  
+  [Paper](https://arxiv.org/abs/2402.01828) | ICASSP 2024
 
-- **Multi-Modal Retrieval For Large Language Model Based Speech Recognition**  
-  [Paper](https://arxiv.org/abs/2406.09618)
+- **Multi-Modal Retrieval For Large Language Model Based Speech Recognition**
+  *Aditya Gourav, Jari Kolehmainen, Prashanth Shivakumar, Yile Gu, Grant Strimel, Ankur Gandhe, Ariya Rastrow, Ivan Bulyko*  
+  [Paper](https://arxiv.org/abs/2406.09618) | ACL 2024 Findings
 
 - **Audiobox TTA-RAG: Improving Zero-Shot and Few-Shot Text-To-Audio with Retrieval-Augmented Generation**  
+  *Mu Yang, Bowen Shi, Matthew Le, Wei-Ning Hsu, Andros Tjandra*  
   [Paper](https://arxiv.org/abs/2411.05141)
 
 ---
@@ -84,14 +89,17 @@ A curated list of papers on Retrieval-Augmented Generation (RAG) applied to mult
 ## Text - Video
 
 - **Towards Efficient and Effective Text-to-Video Retrieval with Coarse-to-Fine Visual Representation Learning**  
-  [Paper](https://arxiv.org/abs/2401.00701)
+  *Kaibin Tian, Yanhua Cheng, Yi Liu, Xinglin Hou, Quan Chen, Han Li*  
+  [Paper](https://arxiv.org/abs/2401.00701) | AAAI 2024
 
 - **Composed Video Retrieval via Enriched Context and Discriminative Embeddings**  
-  [Paper](https://arxiv.org/abs/2403.16997)
+  *Omkar Thawakar, Muzammal Naseer, Rao Muhammad Anwer, Salman Khan, Michael Felsberg, Mubarak Shah, Fahad Shahbaz Khan*  
+  [Paper](https://arxiv.org/abs/2403.16997) | CVPR 2024
 
 ---
 
 ## Dataset
 
 - **UniIR: Training and Benchmarking Universal Multimodal Information Retrievers**  
-  [Paper](https://arxiv.org/abs/2311.17136)
+  *Cong Wei, Yang Chen, Haonan Chen, Hexiang Hu, Ge Zhang, Jie Fu, Alan Ritter, Wenhu Chen*  
+  [Paper](https://arxiv.org/abs/2311.17136) | ECCV 2024
