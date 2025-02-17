@@ -36,7 +36,7 @@ A curated list of papers on Retrieval-Augmented Generation (RAG) applied to mult
   [Paper](https://arxiv.org/abs/2410.10594)
 
 - **MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval**  
-  [Paper (PDF)](https://arxiv.org/pdf/2412.14475)
+  [Paper](https://arxiv.org/abs/2412.14475)
 
 - **UniCoRN: Unified Commented Retrieval Network with LMMs**  
   [Paper](https://arxiv.org/abs/2502.08254)
