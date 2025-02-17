@@ -5,13 +5,9 @@ A curated list of papers on Retrieval-Augmented Generation (RAG) applied to mult
 
 ## Text - Image
 
-- **Retrieval-Augmented Multimodal Language Modeling**
-  
-  _Michihiro Yasunaga, Armen Aghajanyan, Weijia Shi, Rich James, Jure Leskovec, Percy Liang, Mike Lewis, Luke Zettlemoyer, Wen-tau Yih_
-  
+- **Retrieval-Augmented Multimodal Language Modeling**  
+  *Michihiro Yasunaga, Armen Aghajanyan, Weijia Shi, Rich James, Jure Leskovec, Percy Liang, Mike Lewis, Luke Zettlemoyer, Wen-tau Yih* | ICML 2023  
   [Paper](https://arxiv.org/abs/2211.12561)
-
-  ICML 2023
 
 - **MultiFusion: Fusing Pre-Trained Models for Multi-Lingual, Multi-Modal Image Generation**  
   [Paper](https://arxiv.org/abs/2305.15296)
