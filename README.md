@@ -8,7 +8,6 @@ A curated list of papers on Retrieval-Augmented Generation (RAG) applied to mult
   - [Text - Video](#text---video)
   - [Dataset](#dataset)
 
----
 
 ## Text - Image
 
@@ -60,7 +59,6 @@ A curated list of papers on Retrieval-Augmented Generation (RAG) applied to mult
   *Maximilian Jaritz, Matthieu Guillaumin, Sabine Sternig, Loris Bazzani*  
   [Paper](https://arxiv.org/abs/2502.08254)
 
----
 
 ## Text - Audio
 
@@ -84,7 +82,6 @@ A curated list of papers on Retrieval-Augmented Generation (RAG) applied to mult
   *Mu Yang, Bowen Shi, Matthew Le, Wei-Ning Hsu, Andros Tjandra*  
   [Paper](https://arxiv.org/abs/2411.05141)
 
----
 
 ## Text - Video
 
@@ -96,7 +93,6 @@ A curated list of papers on Retrieval-Augmented Generation (RAG) applied to mult
   *Omkar Thawakar, Muzammal Naseer, Rao Muhammad Anwer, Salman Khan, Michael Felsberg, Mubarak Shah, Fahad Shahbaz Khan*  
   [Paper](https://arxiv.org/abs/2403.16997) | CVPR 2024
 
----
 
 ## Dataset
 
