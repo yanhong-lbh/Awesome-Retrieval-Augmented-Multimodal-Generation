@@ -1,12 +1,12 @@
+# Awesome-Retrieval-Augmented-Multimodal-Generation
+A curated list of papers on Retrieval-Augmented Generation (RAG) applied to multimodal tasks (images, text, video, and beyond).
+
 <!-- Table of Contents -->
 - [Awesome-Retrieval-Augmented-Multimodal-Generation](#awesome-retrieval-augmented-multimodal-generation)
   - [Text - Image](#text---image)
   - [Text - Audio](#text---audio)
   - [Text - Video](#text---video)
   - [Dataset](#dataset)
-
-# Awesome-Retrieval-Augmented-Multimodal-Generation
-A curated list of papers on Retrieval-Augmented Generation (RAG) applied to multimodal tasks (images, text, video, and beyond).
 
 ---
 
