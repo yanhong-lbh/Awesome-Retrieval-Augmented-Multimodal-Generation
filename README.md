@@ -29,27 +29,35 @@ A curated list of papers on Retrieval-Augmented Generation (RAG) applied to mult
   [Paper](https://arxiv.org/abs/2311.15879) | CVPR 2024
 
 - **Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models**  
-  [Paper](https://arxiv.org/abs/2405.15574)
+  *Byung-Kwan Lee, Chae Won Kim, Beomchan Park, Yong Man Ro*  
+  [Paper](https://arxiv.org/abs/2405.15574) | NeurIPS 2024
 
 - **Unified Text-to-Image Generation and Retrieval**  
-  [Paper](https://arxiv.org/abs/2406.05814)
+  *Leigang Qu, Haochuan Li, Tan Wang, Wenjie Wang, Yongqi Li, Liqiang Nie, Tat-Seng Chua*  
+  [Paper](https://arxiv.org/abs/2406.05814) | ICLR 2024
 
 - **ColPali: Efficient Document Retrieval with Vision Language Models**  
-  [Paper](https://arxiv.org/abs/2407.01449)
+  *Manuel Faysse, Hugues Sibille, Tony Wu, Bilel Omrani, Gautier Viaud, Céline Hudelot, Pierre Colombo*  
+  [Paper](https://arxiv.org/abs/2407.01449) | ICLR 2025
 
 - **MM-Embed: Universal Multimodal Retrieval with Multimodal LLMs**  
-  [Paper](https://arxiv.org/abs/2411.02571)
+  *Sheng-Chieh Lin, Chankyu Lee, Mohammad Shoeybi, Jimmy Lin, Bryan Catanzaro, Wei Ping*  
+  [Paper](https://arxiv.org/abs/2411.02571) | ICLR 2025
 
 - **Unified Generative and Discriminative Training for Multi-modal Large Language Models**  
-  [Paper](https://arxiv.org/abs/2411.00304)
+  *Wei Chow, Juncheng Li, Qifan Yu, Kaihang Pan, Hao Fei, Zhiqi Ge, Shuai Yang, Siliang Tang, Hanwang Zhang, Qianru Sun*  
+  [Paper](https://arxiv.org/abs/2411.00304) | NeurIPS 2024
 
 - **VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents**  
-  [Paper](https://arxiv.org/abs/2410.10594)
+  *Shi Yu, Chaoyue Tang, Bokai Xu, Junbo Cui, Junhao Ran, Yukun Yan, Zhenghao Liu, Shuo Wang, Xu Han, Zhiyuan Liu, Maosong Sun*  
+  [Paper](https://arxiv.org/abs/2410.10594) | ICLR 2025
 
 - **MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval**  
+  *Junjie Zhou, Zheng Liu, Ze Liu, Shitao Xiao, Yueze Wang, Bo Zhao, Chen Jason Zhang, Defu Lian, Yongping Xiong*  
   [Paper](https://arxiv.org/abs/2412.14475)
 
 - **UniCoRN: Unified Commented Retrieval Network with LMMs**  
+  *Maximilian Jaritz, Matthieu Guillaumin, Sabine Sternig, Loris Bazzani*  
   [Paper](https://arxiv.org/abs/2502.08254)
 
 ---
