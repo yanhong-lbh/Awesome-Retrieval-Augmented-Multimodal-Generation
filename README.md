@@ -21,10 +21,12 @@ A curated list of papers on Retrieval-Augmented Generation (RAG) applied to mult
   [Paper](https://arxiv.org/abs/2305.15296) | NeurIPS 2023
 
 - **Generating Images with Multimodal Language Models**  
-  [Paper](https://arxiv.org/abs/2305.17216)
+  *Jing Yu Koh, Daniel Fried, Ruslan Salakhutdinov*  
+  [Paper](https://arxiv.org/abs/2305.17216) | NeurIPS 2023
 
 - **EVCap: Retrieval-Augmented Image Captioning with External Visual-Name Memory for Open-World Comprehension**  
-  [Paper](https://arxiv.org/abs/2311.15879)
+  *Jiaxuan Li, Duc Minh Vo, Akihiro Sugimoto, Hideki Nakayama*  
+  [Paper](https://arxiv.org/abs/2311.15879) | CVPR 2024
 
 - **Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models**  
   [Paper](https://arxiv.org/abs/2405.15574)
